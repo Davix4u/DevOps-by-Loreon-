@@ -63,7 +63,23 @@ Go and check the lod
 
 <img width="1880" height="550" alt="Screenshot 2025-11-01 033613" src="https://github.com/user-attachments/assets/496c3049-fa6e-40ed-9ea4-e57aad99e53f" />
 
-let
+create a new directory for certbot for certificat
+mkdir certbot
+vi loreon_https.sh
+
+<img width="843" height="479" alt="loreon_https sh" src="https://github.com/user-attachments/assets/e58d2995-3e06-4919-800d-8e544d46094d" />
+
+nano .env
+
+<img width="377" height="109" alt="Screenshot 2025-11-01 115538" src="https://github.com/user-attachments/assets/17a5e5e9-8e15-4a30-bbf8-2728c51dc160" />
+
+chmod +x loreon_https.sh
+sudo ./loreon_https.sh
+
+<img width="926" height="421" alt="Screenshot 2025-11-01 115958" src="https://github.com/user-attachments/assets/85eb2bb0-d287-43a5-add5-c6a9c8ec9af2" />
+
+
+
 
 
 
